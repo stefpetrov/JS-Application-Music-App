@@ -1,4 +1,4 @@
-# Meme-Lounge
+# Music-App
 Written in Vanilla JavaScript, without using any  Front-End framework
 
 In this Single Page Application I used on SoftUni Practice server, it is located in the folder: server/server.js
